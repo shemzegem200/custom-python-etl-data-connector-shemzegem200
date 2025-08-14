@@ -24,7 +24,6 @@ This project extracts cybersecurity threat intelligence data from the **DShield 
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/shemzegem200/custom-python-etl-data-connector-shemzegem200.git
-cd dshield-etl
 ```
 
 ### 2️⃣ Install Dependencies
